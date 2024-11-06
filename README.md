@@ -1,4 +1,4 @@
-# mnist
+# mnist手写字体识别
 对mnist数据集进行字体识别
 # identify_model.py
 用来加载数据，训练模型，并保存最终获取的模型
